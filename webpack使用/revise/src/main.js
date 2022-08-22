@@ -1,3 +1,5 @@
+import {re} from "@babel/core/lib/vendor/import-meta-resolve";
+
 const {add, mul, num} = require('./js/mathUtils');
 console.log(add(20, 40));
 console.log(mul(10, 20));
@@ -38,7 +40,11 @@ let data = {
 };
 data.data = data;
 let clone = (target, map = new WeakMap()) => {
-    if (!target || typeof target !== 'object') {
+    if (
+        !target ||
+        typeof target !== 'object' ||
+        target.constructor === RegExp
+    ) {
         return target;
     }
     let targetNew = Array.isArray(target) ? [] : {};

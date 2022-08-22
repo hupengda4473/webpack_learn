@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5539f3e-cbaf-42d6-a90e-348a68ed8add" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack使用/01-webpack起步/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpack使用/01-webpack起步/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack使用/revise/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack使用/revise/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="Less File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -43,21 +47,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.48" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="D:\hpd_download\ideaIU_2021.2.3_64bit_Portable\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\hpd_demo_project\webpack_learn" />
+      <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\revise\src\image" />
+      <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\revise" />
+      <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\webpack-css" />
+      <recent name="D:\hpd_demo_project\webpack_learn\review\src\img" />
+      <recent name="D:\hpd_demo_project\webpack_learn\review" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\revise\src\js" />
+      <recent name="D:\hpd_demo_project\webpack_learn\review\src\js" />
       <recent name="E:\webpack_learn\webpack使用" />
     </key>
   </component>
@@ -70,8 +84,32 @@
       <option name="presentableId" value="Default" />
       <updated>1660225913027</updated>
       <workItem from="1660225915020" duration="988000" />
-      <workItem from="1660269092123" duration="112000" />
+      <workItem from="1660269092123" duration="10078000" />
+      <workItem from="1660521796353" duration="9499000" />
+      <workItem from="1660608284350" duration="2000" />
+      <workItem from="1660608299061" duration="3266000" />
+      <workItem from="1660613800398" duration="12268000" />
+      <workItem from="1660695977481" duration="2000" />
+      <workItem from="1660695997962" duration="2062000" />
+      <workItem from="1660868285248" duration="10969000" />
+      <workItem from="1661127088049" duration="12000" />
+      <workItem from="1661129892004" duration="4296000" />
     </task>
+    <task id="LOCAL-00001" summary="添加图片">
+      <created>1660269233652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660269233652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="webpack(new)---复习">
+      <created>1660877062654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660877062654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +117,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="切分支" />
-    <option name="LAST_COMMIT_MESSAGE" value="切分支" />
+    <MESSAGE value="添加图片" />
+    <MESSAGE value="webpack(new)---复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="webpack(new)---复习" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
