@@ -5,9 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5539f3e-cbaf-42d6-a90e-348a68ed8add" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/views/AboutView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/src/views/HomeView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/views/AboutView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/src/views/HomeView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hpd-demo/vuedeomaaaaa/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_demo/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_demo/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/.vue-svgicon.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/components/about.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/components/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/components/massage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/components/mine.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/components/news.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-test/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack使用/revise/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack使用/revise/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +73,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="Less File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -63,17 +120,35 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hpd_demo_project\webpack_learn\review_demo" />
       <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\revise\src\image" />
       <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\revise" />
       <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\webpack-css" />
       <recent name="D:\hpd_demo_project\webpack_learn\review\src\img" />
-      <recent name="D:\hpd_demo_project\webpack_learn\review" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hpd_demo_project\webpack_learn\vue3-test\src\assets\svg" />
       <recent name="D:\hpd_demo_project\webpack_learn\webpack使用\revise\src\js" />
       <recent name="D:\hpd_demo_project\webpack_learn\review\src\js" />
       <recent name="E:\webpack_learn\webpack使用" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue3-test/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +168,11 @@
       <workItem from="1660695997962" duration="2062000" />
       <workItem from="1660868285248" duration="10969000" />
       <workItem from="1661127088049" duration="12000" />
-      <workItem from="1661129892004" duration="4296000" />
+      <workItem from="1661129892004" duration="4405000" />
+      <workItem from="1661213273223" duration="10311000" />
+      <workItem from="1661299346248" duration="1637000" />
+      <workItem from="1661331184627" duration="2236000" />
+      <workItem from="1661389873168" duration="18290000" />
     </task>
     <task id="LOCAL-00001" summary="添加图片">
       <created>1660269233652</created>
@@ -109,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660877062654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="webpack(new)---复习">
+      <created>1661139110546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661139110546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

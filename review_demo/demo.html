@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.4.1.min.js"></script>
+</head>
+<body>
+</body>
+<script>
+    $(function () {
+        /* const xhr = new XMLHttpRequest();
+         // 2.open
+         xhr.open('POST', 'http://192.168.10.81:9191/api/AA/setToken');
+         // 设置请求头
+         // xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+         xhr.setRequestHeader('Content-Type', 'text/plain; charset=utf-8');
+         // 3.发送(可任意写法)
+         xhr.send('test=999');
+         // 4.事件绑定 处理服务端返回的结果
+         xhr.onreadystatechange = function () {
+             // 判断状态是否返回了所有结果
+             if (xhr.readyState == 4) {
+                 //判断响应状态码 200-300之间
+                 if (xhr.status >= 200 && xhr.status < 300) {
+                     console.log(xhr);
+                     console.log(xhr.response);
+                 }
+             }
+         }*/
+
+        $.ajax({
+            url : "http://60.2.176.226:10103/api/Device",
+            type: "GET",
+            crossDomain: true,
+            dataType: 'JSONP',
+            headers:{
+                'Access-Control-Allow-Origin':'*'
+            },
+            jsonp:'callback',
+            data : {
+                "test" : "999"
+            },
+            success : function(result) {
+                console.log(result);
+                if ( result.success ) {
+                    console.log(result);
+                } else {
+                    console.log(result);
+                }
+            }
+        });
+
+        // $.ajax({
+        //     async: false,
+        //     type: "POST",
+        //     url: "http://192.168.10.81:9191/api/AA/setToken",
+        //     contentType: "application/json;charset=utf-8",
+        //     data: "{'test':'666'}",
+        //     success: function (json) {
+        //         console.log(json);
+        //     }
+        // })
+
+
+        /*var proxy = function (url, callback) {
+            var state = 0;
+            var iframe = document.createElement('iframe');
+
+            // 加载跨域页面
+            iframe.src = url;
+
+            // onload事件会触发2次，第1次加载跨域页，并留存数据于window.name
+            iframe.onload = function () {
+                if (state === 1) {
+                    // 第2次onload(同域proxy页)成功后，读取同域window.name中数据
+                    callback(iframe.contentWindow.name);
+                    destoryFrame();
+
+                } else if (state === 0) {
+                    // 第1次onload(跨域页)成功后，切换到同域代理页面
+                    iframe.contentWindow.location = 'http://www.demo1.com/proxy.html';
+                    state = 1;
+                }
+            };
+
+            document.body.appendChild(iframe);
+
+            // 获取数据以后销毁这个iframe，释放内存；这也保证了安全（不被其他域frame js访问）
+            function destoryFrame() {
+                iframe.contentWindow.document.write('');
+                iframe.contentWindow.close();
+                document.body.removeChild(iframe);
+            }
+        };
+
+        // 请求跨域b页面数据
+            proxy('http://192.168.10.81:9191/api/AA/setToken', function (data) {
+                alert(data);
+            });*/
+        })
+</script>
+</html>
